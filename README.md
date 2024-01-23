@@ -24,7 +24,7 @@ Analyze variations in behavior between annual members and casual riders to formu
 ### Guiding questions
 #### • Where is your data located?
 
-The data is stored on Kaggle as a dataset named "tripdata_2020".
+The data is stored on Kaggle as a dataset named [tripdata_2020](https://www.kaggle.com/datasets/raymondmutyaba/divvytripdata).
 
 #### • How is the data organized?
 
@@ -57,13 +57,13 @@ I opted for Python and Jupyter Notebook due to the dataset's size, which is too 
 I performed data cleaning, which involved removing NA values and duplicates. Additionally, I formatted the time and dates in the dataset.
 
 #### • How can you verify that your data is clean and ready to analyze?
-The steps taken for cleaning process can be reffered in the attached jupyter notebook.
+The steps taken for cleaning process can be reffered in the attached [notebook](https://github.com/ajoyscorpion/bike_share_data_analysis/blob/main/bikeshare%20navigate%20speedy%20success.ipynb).
 
 #### • Have you documented your cleaning process so you can review and share those results?
 The document has been cleaned
 
 ### Deliverable
-Documentation of any cleaning or manipulation of data can be reffered in the attached notebook
+Documentation of any cleaning or manipulation of data can be reffered in the attached [notebook](https://github.com/ajoyscorpion/bike_share_data_analysis/blob/main/bikeshare%20navigate%20speedy%20success.ipynb)
 
 
 # Share
@@ -90,8 +90,7 @@ A targeted digital media campaign highlighting the benefits of an annual members
 Using data visualization provides a clear and concise way to compare the differences between annual members and casual riders. This facilitates effective communication and decision-making, aligning with the goal of designing a targeted marketing strategy to convert casual riders into annual members.
 
 ### Deliverable
-Visualization are attached in the jupyter notebook
-
+Visualization are attached in the [notebook](https://github.com/ajoyscorpion/bike_share_data_analysis/blob/main/bikeshare%20navigate%20speedy%20success.ipynb).
 
 # Act
 ### Guiding questions¶
